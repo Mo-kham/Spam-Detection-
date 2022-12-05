@@ -5,3 +5,5 @@ Over half of all global email traffic is spam, a statistic that is only surprisi
 
 After Reviewing mutiple spam emails and doing a word choice catagerzition for the most used words , in order to create a model prediction which will act as a first line of defence in this war against spam emails .
 
+The data is gathered from muttipule sides from the world making it a great hit for scammers .
+
